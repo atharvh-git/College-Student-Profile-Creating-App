@@ -6,6 +6,6 @@ This project has following functionalities:
 2) Determines the department according to the department code put by user(student)
 3) Generates a random String as a password and a random 3 digit roll number for respective profile
 4) It has methods to change the password, and define an alternate Email-ID
-5) It has get methods to display the student name, college email ID, departmenta and roll number.
+5) It has get methods to display the student name, college email ID, department and roll number.
 
 In short it dispalys the complete profile with all details along with the changes of password and email ID (if set and get methods are used)
